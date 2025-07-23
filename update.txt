@@ -1,0 +1,21 @@
+1.0.0
+Release of the datapack
+
+1.0.1
+Wrong datapack description...
+
+1.0.2
+Resolved a bug where if you leave the horse by rightclicking something that moves the player too far, it breaks.
+
+1.1.0
+Now compatible with every vanilla horse-like creature! Horses (even dead ones), donkeys, mules, camels, ...
+
+1.2.0
+Fixed for 25w03a which brings compatibility with all entities ridables with saddles! (pigs, ...)
++ added versions for multiple MC versions compatibility
+
+1.2.1
+Didn't check if I didn't broke older versions by updating (broke older in the same time btw ::) love me)
+
+1.2.2
+* Minecraft updates have broken the background of the advancements list.
