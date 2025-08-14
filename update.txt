@@ -19,3 +19,12 @@ Didn't check if I didn't broke older versions by updating (broke older in the sa
 
 1.2.2
 * Minecraft updates have broken the background of the advancements list.
+
+1.2.3
+* Updated for 1.21.9+ new pack.mcmeta formats
+formats
+* Renamed from "Horse Stay Still" to "Mounts Stay Still"
+
+## NOT OFFICIAL
+1.3.0
++ added compatibility with Happy Ghast!
