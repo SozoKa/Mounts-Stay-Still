@@ -8,4 +8,4 @@
 # A little credit is still apreciated :)
 # 
 
-tellraw @a {"text":"§7■§6§l Mounts Stay Still §8§l| §7By §cSozoKa §8- §7running!"}
+tellraw @a[tag=convention.debug] {"text":"§7■§6§l Mounts Stay Still §8§l| §7By §cSozoKa §8- §7running!"}

@@ -22,9 +22,29 @@ Didn't check if I didn't broke older versions by updating (broke older in the sa
 
 1.2.3
 * Updated for 1.21.9+ new pack.mcmeta formats
-formats
 * Renamed from "Horse Stay Still" to "Mounts Stay Still"
 
-## NOT OFFICIAL
-1.3.0
-+ added compatibility with Happy Ghast!
+1.2.4
+- Made the loading message appear only if you have the tag "convention.debug"
+- Moved the datapack's advancements icons to the community's convention tab.
+- Reworked overlays (now that I understand them properly...)
+- Fixed some issues I introduced when renaming the datapack
+
+-----------------------------------------------------------------------------------
+
+## BONUS
++ compatibility with Happy Ghast!
+# add:
+
+        ,
+		{
+		  "directory": "v80-1.21.6",
+		  "formats": [80, 81],
+		  "min_format": 80,
+		  "max_format": 9999
+		}
+
+to the overlays of the pack.mcmeta
+
+!!! THIS FEATURE DOES NOT WORK AS INTENDED AND MAY CAUSE SOME TROUBLE.
+Your ghast can be stuck in the air if you leave it up in there or be permanently immobilized forever when you uninstall the datapack.

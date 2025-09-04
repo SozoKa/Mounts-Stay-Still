@@ -8,7 +8,7 @@
 # A little credit is still apreciated :)
 # 
 
-execute as @a[predicate=mountsstaystill:debug] run tellraw @s "say function saddle_removed"
+execute as @a[predicate=mountsstaystill:debug] run tellraw @s "function saddle_removed"
 
 tag @s remove rided_horse
 execute on passengers run tag @s remove on_horse
