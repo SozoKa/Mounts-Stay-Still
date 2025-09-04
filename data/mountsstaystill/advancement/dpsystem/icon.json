@@ -1,0 +1,17 @@
+{
+	"display": {
+		"title": "Mounts Stay Still!",
+		"description": "§8Made for §c1.21.x\n§8v1.2.4\n\n§7I hate when I leave my horse and it decides to go on a roadtrip without me and then it's lost and I have NO IDEA where it is. So now, if you leave the horse, it WON'T MOVE.\n\n§8by §cSozoKa",
+		"icon": {
+			"id": "minecraft:saddle"
+		},
+		"announce_to_chat": false,
+		"show_toast": false
+	},
+	"parent": "sozoka:me",
+	"criteria": {
+		"Install \"Mounts Stay Still!\" datapack": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
